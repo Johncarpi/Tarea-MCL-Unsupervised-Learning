@@ -1,0 +1,9 @@
+name: my_environment
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - matplotlib
+  - numpy
+  - seaborn
+  - scikit-learn
